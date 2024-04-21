@@ -1,2 +1,5 @@
 #virtual venv
 my_env/
+
+#migrate
+blog/migration/
